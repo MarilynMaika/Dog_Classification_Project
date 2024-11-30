@@ -1,0 +1,9 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = resnet 
+ dogfile = dognames.txt
+
+Prints 10 filenames from folder pet_images/
+
+Pet Image Label Dictionary has 0 key-value pairs.
+Below are 0 of them:
